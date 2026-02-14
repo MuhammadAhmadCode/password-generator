@@ -19,7 +19,7 @@ The app uses a slider to select the password length and instantly generates a ra
 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/MuhammadAhmadCode/password-generator.git
 ```
 
 
