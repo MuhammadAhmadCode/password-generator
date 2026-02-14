@@ -14,12 +14,6 @@ The app uses a slider to select the password length and instantly generates a ra
 
 ---
 
-## Live Demo
-
-[See it live](your-live-demo-link)  
-*(Optional, deploy on Netlify, Vercel, or GitHub Pages)*
-
----
 
 ## Installation
 
