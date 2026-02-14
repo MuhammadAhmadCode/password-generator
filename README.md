@@ -1,16 +1,65 @@
-# React + Vite
+# Password Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React app that generates secure passwords based on the length you choose.  
+The app uses a slider to select the password length and instantly generates a random password.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## React Compiler
+- Generate random passwords instantly  
+- Select password length using a slider  
+- Copy password to clipboard with a click  
+- Responsive and easy-to-use interface  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[See it live](your-live-demo-link)  
+*(Optional, deploy on Netlify, Vercel, or GitHub Pages)*
+
+---
+
+## Installation
+
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/your-username/password-generator.git
+```
+
+
+2. Navigate to the project folder:
+
+```bash
+cd password-generator
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+4. Start the development server:
+```bash
+npm start
+```
+
+### Usage
+
+- Open the app in your browser.
+
+- Use the slider to select the desired password length.
+
+- Click the "Generate" button to create a new password.
+
+- Click the "Copy" button to copy the password to your clipboard.
+
+** Built With React
+
+React Hooks
+
+### License
+
+This project is open source and available under the MIT License.
